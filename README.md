@@ -111,10 +111,3 @@ This project helped develop understanding of:
 * SIEM integration
 * Threat intelligence feeds
 
-## Author
-
-Jathin Vamsi Ganjikunta
-
-Computer Science Engineering Student
-
-Dayananda Sagar University
